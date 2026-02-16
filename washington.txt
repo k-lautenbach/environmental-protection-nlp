@@ -1,0 +1,287 @@
+(1) Customer-directed. A utility may require customers to give at least three days' advance notice of customer-directed disconnection when the utility uses
+dispatched utility personnel to disconnect service. The utility may
+require up to twenty-four hours advance notice of customer-directed
+disconnection from customers serviced via a meter with remote disconnect capability. The customer is not responsible for usage after the
+requested date for disconnection of service, provided the customer
+gave the utility the notice required in this rule and the utility's
+tariff. If the customer moves from the service address and fails to
+request that service be disconnected, the customer will be responsible
+for paying for service taken at that service address until the utility
+can confirm the date that the customer vacated the premises and the
+utility can access the meter, if necessary, or that a new responsible
+party is taking service at that address.
+(2) Utility-directed with notice. After notifying the customer as
+required in subsection (4) of this section, the utility may disconnect
+service for any one of the following conditions:
+(a) The customer has delinquent charges associated with regulated
+electric service, including any required deposit; however, the utility
+may not disconnect service when the customer has met the requirements
+of subsection (8) of this section for medical conditions or emergencies, or has agreed to and maintains agreed-upon payment arrangements
+with the utility, as described in WAC 480-100-143, Winter low-income
+payment program;
+(b) Electric service the utility provides is being used for pur-
+poses or properties other than those specified in the customer's serv-
+ice application;
+(c) Flat-rate service for nonmetered load has increased electric
+use without the utility's approval;
+(d) The customer refuses to allow, or utility representatives are
+otherwise unable to obtain, access to the customer's premises as required in WAC 480-100-168, Access to premises; identification;
+(e) Violation of utility rules, service agreements, or filed tariff(s); or
+(f) Equipment is being used that detrimentally affects the utili-
+ty's service to its other customers or may result in detrimental im-
+pacts to the safety of those customers or other persons, customers'
+equipment or property, or utility service.
+(3) A utility may not disconnect electric service for amounts
+that the customer may owe the utility for nonregulated service.
+(4) Disconnection notification requirements. The utility must notify a customer as provided in this subsection before disconnecting
+the customer's service, except as described in subsection (7) of this
+section.
+(a) The utility must provide at least two separate disconnection
+notices to the customer.
+(i) The utility must provide the first disconnection notice in
+writing by delivery of a paper copy to the service premises. The utility must either mail a paper copy of the notice or deliver the notice
+to the service premises by attaching the notice to the customer's primary door. The notice must be mailed or delivered to the premises at
+least eight business days before the disconnection date. If the notice
+is mailed from outside the states of Washington, Oregon, or Idaho, the
+utility must mail the notice eleven days before the disconnection
+date. In addition, the utility must provide an electronic copy of the
+notice, if the utility has such contact information for the customer
+and the customer has consented to electronic delivery of notices from
+the utility, at the time the utility mails or delivers the paper copy
+of the notice.
+(ii) The utility must provide the second disconnection notice
+electronically (if the utility has such contact information and customer consent to electronic delivery of notices) at least two business
+days before the disconnection date and by one of the three options
+listed below:
+(A) Delivered notice. The utility must deliver a paper copy of
+the second notice to the service premises and attach it to the customer's primary door at least two business days before the disconnection
+date.
+(B) Mailed notice. The utility must mail a paper copy of the second notice at least three business days before the disconnection date
+unless mailed outside of the states of Washington, Oregon, or Idaho,
+in which case the utility must mail the notice no less than six business days before the disconnection date.
+(C) Telephone notice. The utility must attempt at least two times
+to contact the customer by telephone during regular business hours at
+least three business days before the disconnection date to enable sufficient time to send a timely written notice if the utility is unable
+to speak with the customer by telephone. The utility must keep a log
+or record of the calls for a minimum of ninety calendar days showing
+the telephone number called, the time of the call, and details of the
+results of each attempted call. If the utility is unable to speak with
+the customer by telephone, the utility must deliver or mail a paper
+copy of the second notice as provided in (a)(ii)(A) or (B) of this
+subsection.
+(b) Each disconnection notice must include all relevant information about the disconnection action including:
+(i) The cause for disconnection, the amount owed for regulated
+electric service, and how to avoid disconnection including, but not
+limited to, the availability of, and how to apply for, energy assistance, low-income assistance, exemptions for low-income assistance and
+medical conditions or emergencies, and a payment plan as required un-
+der WAC 480-100-138 Payment arrangements;
+(ii) All relevant information about any charges that the utility
+is assessing or that it may assess;
+(iii) The utility's name, address, and toll-free telephone number
+by which a customer may contact the utility to discuss the pending
+disconnection of service;
+(iv) If the notices are for nonpayment and the utility is scheduling disconnection during the late fall and winter between November
+15th and March 15th, the utility must advise the customer of the pay-
+ment plan option in WAC 480-100-143 Winter low-income payment program;
+and
+(v) If the utility may be disconnecting service via a remote dis-
+connection device, the notice must include a statement that the utili-
+ty may disconnect the customer's service without a final visit from
+utility personnel.
+(c) If the utility discovers that an issued notice does not contain the information required under (b) of this subsection, or if the
+information in the notice is inaccurate, the utility must issue another notice to the customer as described in (a)(i) or (ii) of this sub-
+section, as applicable, and must recalculate the scheduled disconnection date to the extent necessary to ensure that the utility complies
+with the minimum prior notice requirements.
+(d) If the utility does not disconnect service within ten business days from the disconnection date stated in a disconnection notice
+under (a)(i) or (ii) of this subsection, the utility must restart the
+disconnection notice process required in (a) of this subsection unless
+the customer and the utility have agreed to a payment arrangement.
+(e) A utility with combined accounts for both natural gas and
+electric service may disconnect the electric service in compliance
+with these rules if the reason for the disconnection applies or is attributable to that service. The utility may disconnect the natural gas
+service in compliance with chapter 480-90 WAC if the reason for the
+disconnection applies or is attributable to that service. The utility
+must state which service it intends to disconnect and any measures the
+customer needs to undertake to retain the other service. If the utili-
+ty seeks to disconnect both services, the utility must distinctly
+identify both services it intends to disconnect.
+(f) When the service address is different from the billing address, the utility must determine if the customer of record and the
+service user are the same party. If they are not the same party, the
+utility must provide notice to the service user as described in (a) of
+this subsection prior to disconnecting service.
+(g) Except in case of danger to life or property, the utility may
+not disconnect service on Saturdays, Sundays, legal holidays, or on
+any other day on which the utility cannot reestablish service on the
+same or following day.
+(h) Any representative the utility dispatches in connection with
+service disconnection must accept payment of a delinquent account at
+the service address, but will not be required to give change for cash
+paid in excess of the amount due and owing. The utility must credit
+any over-payment to the customer's account. The utility may charge a
+fee for the disconnection visit to the service address if provided for
+in the utility's tariff.
+(i) When the utility provides service through a master meter, or
+when the utility has reasonable grounds to believe it is providing
+service to a person other than the customer of record, the utility
+must undertake reasonable efforts to inform the occupants of the service address of the impending disconnection. Upon request of one or
+more service users, where service is to a person other than the cus-
+tomer of record, the utility must allow at least five days past the
+original disconnection date to permit the service users to arrange for
+continued service.
+(j) Medical facilities. The utility must take the following additional steps when the utility is aware that it is providing service to
+specified types of medical facilities.
+(i) If the utility is providing service to a hospital, medical
+clinic, ambulatory surgery center, renal dialysis facility, chemical
+dependency residential treatment facility, or other medical care facility licensed or certified by the department of health (DOH), the
+utility must provide a notice of pending disconnection to the DOH secretary and to the customer. Upon request of the DOH secretary or designee, the utility must delay the disconnection for at least five
+business days past the original disconnection date to allow DOH to
+take the necessary steps to protect the interests of the patients re-
+siding at the facility.
+(ii) If the utility is providing service to a nursing home,
+boarding home, adult family home, group care facility, intermediate
+care facility for individuals with intellectual disabilities, intensive tenant support residential property, crisis residential center
+for children, or residential care facility licensed or certified by
+the department of social and health services (DSHS), the utility must
+provide a notice of pending disconnection to the DSHS secretary and to
+the customer. Upon request of the DSHS secretary or designee, the
+utility must delay the disconnection for at least five business days
+past the original disconnection date to allow DSHS to take the necessary steps to protect the interests of the patients residing at the
+facility.
+(iii) A utility may not remotely disconnect customers who the
+utility is aware provide the services described in (j)(i) and (ii) of
+this subsection, and the utility must take reasonable precautions to
+prevent any unauthorized disconnection of those customers.
+(k) Any customer may designate a third party to receive a disconnection notice or notice of other matters affecting the customer's
+service. The utility must offer all customers the opportunity to make
+such a designation. If the utility has reasonable grounds to believe
+that a customer is not able to understand the effect of the disconnection, the utility must take reasonable steps to ascertain whether a
+third party, such as DSHS or other social services agency, is responsible for the customer's affairs. In either circumstance, the utility
+must delay service disconnection for at least five business days past
+the original disconnection date after issuing a disconnection notice
+to the third party. The utility must determine which social services
+agencies are appropriate and willing to receive the disconnection no-
+tice and the name and/or title of the person able to deal with the
+disconnection, and the utility must provide that information to the
+customer.
+(5) For purposes of this section, the date of mailing a notice
+will not be considered the first day of the notice period.
+(6) Remote disconnection. When disconnecting services remotely,
+the utility must:
+(a) Disable remote disconnection functionality for medical facilities and critical infrastructure as identified in or pursuant to
+the Washington state military department's Washington state infra-
+structure protection plan; and limit the number of remote disconnections in a twenty-four hour period or take other reasonable measures
+to prevent unauthorized disconnections;
+(b) Perform all remote disconnections for nonpayment between the
+hours of 8:00 a.m. and 12:00 p.m. and remotely disconnect service only
+if the utility provides customers with a reasonable opportunity to
+submit payment and have the utility reestablish service on the same
+day;
+(c) Prior to involuntarily disconnecting a customer who has a
+medical certificate in accordance with subsection (8) of this section,
+visit the customer's premises and provide the customer with an opportunity to pay via appropriate methods including providing payment to
+the dispatched utility representative;
+(d) Prior to disconnecting a customer for nonpayment who the
+utility is aware has received low-income assistance in the prior two
+years, visit the customer's premises and provide the customer with an
+opportunity to pay via appropriate methods including providing payment
+to the dispatched utility representative;
+(e) If a site visit is not required to disconnect the service,
+the utility may not charge any fees for the disconnection.
+(7) Utility-directed disconnection without prior notice.
+(a) A utility may disconnect service without prior notice or
+without further prior notice under any of the following circumstances:
+(i) After conducting a thorough investigation, the utility determines that the customer has tampered with or stolen the utility's
+property, has used service through an illegal connection, or has fraudulently obtained service. In any challenge to that determination, the
+utility has the burden of proving that fraud occurred. For the purpose
+of this section, a nonsufficient funds check or dishonored electronic
+payment alone will not be considered fraud.
+(A) First offense. The utility may disconnect service without
+prior notice when it discovers theft, tampering, or fraud, unless the
+customer immediately pays all of the following:
+(I) The tariffed rate for service that the utility estimates was
+used as a result of the theft, tampering, or fraud;
+(II) All utility costs resulting from such theft, tampering, or
+fraud; and
+(III) Any required deposit.
+(B) Second offense. The utility may disconnect service without
+prior notice when it discovers further theft, tampering, or fraud. The
+utility may refuse to reconnect service to a customer who has been
+twice disconnected for theft, tampering, or fraud unless the commis-
+sion determines otherwise.
+(ii) After conducting a thorough investigation, the utility determines that the customer has vacated the premises;
+(iii) The utility identifies a hazardous condition in the custom-
+er's facilities or in the utility's facilities serving the customer;
+(iv) A customer pays a delinquent account with a check or electronic payment the bank or other financial institution has dishonored
+after the utility has issued notice as required in subsection (4) of
+this section;
+(v) The customer has not kept any agreed-upon payment arrangement
+for payment of a delinquent balance after the utility has issued no-
+tice as required in subsection (4) of this section; or
+(vi) The utility has determined a person has used service prior
+to applying for service. The utility must charge the person for service used in accordance with the utility's filed tariff. If the utility
+has reasonably sufficient grounds to conclude that the unauthorized
+usage is in good faith, the utility should notify the person and provide an opportunity to apply for service prior to disconnection.
+(b) If the utility disconnects service without prior notice as
+authorized in this subsection, the utility must subsequently make a
+reasonable effort to notify the customer or affected person of the
+reason for the disconnection within five business days. Such notice
+must also describe the means by which the customer or person may dispute the utility's actions including, but not limited to, contacting
+the commission.
+(c) This section should not be interpreted as relieving the customer or other person of civil or criminal responsibility.
+(8) Medical conditions or emergencies. When the utility has cause
+to disconnect or has disconnected a residential service, it must postpone disconnection of service or must reinstate service for a grace
+period of five business days after receiving either verbal or written
+notification of the existence of a medical condition or emergency that
+requires electricity to continue to be provided. The utility must reinstate service during the same day if the customer contacts the utility prior to the close of the business day and requests a same-day re-
+connection. Otherwise, the utility must restore service by 12:00 p.m.
+the next business day. When service is reinstated the utility will not
+require payment of a reconnection charge and/or deposit prior to reinstating service but must bill all such charges on the customer's next
+regular bill or on a separate invoice.
+(a) The utility may require that the customer, within five business days, submit written electronic or paper certification from a
+qualified medical professional stating that the disconnection of electric service would aggravate an existing medical condition of an occu-
+pant of the household. "Qualified medical professional" means a licensed physician, nurse practitioner, or physician's assistant author-
+ized to diagnose and treat the medical condition without supervision
+of a physician. Nothing in this section precludes a utility from accepting other forms of certification, but the most the utility can re-
+quire is written electronic or paper certification. If the utility requires such written certification, it may not require more than the
+following information:
+(i) Residence location;
+(ii) An explanation of how the current medical condition will be
+aggravated by disconnection of service;
+(iii) A statement of how long the condition is expected to last;
+and
+(iv) The title, signature, and telephone number of the person
+certifying the condition.
+(b) The medical certification is valid only for the length of
+time the health endangerment is certified to exist but no longer than
+sixty days, unless renewed.
+(c) A medical emergency does not excuse a customer from having to
+pay delinquent and ongoing charges. The utility may require the customer to do the following within a five business day grace period:
+(i) Pay a minimum of ten percent of the delinquent balance;
+(ii) Enter into an agreement to pay the remaining delinquent balance within one hundred twenty days; and
+(iii) Agree to pay subsequent bills when due. Nothing in this
+section precludes the utility from agreeing to an alternate payment
+plan, but the utility must not require the customer to pay more than
+this subsection prescribes. The utility must send a notice to the customer confirming the payment arrangements within two business days of
+having reached the agreement.
+(d) If the customer fails to provide a medical certificate in accordance with (a) of this subsection or ten percent of the delinquent
+balance within the five business days grace period, or if the customer
+fails to abide by the terms of the payment agreement, the utility may
+disconnect service after complying with the notice requirements in
+subsection (4)(a)(ii) of this section. If the utility previously provided a second disconnection notice to the customer, the utility must
+provide an additional second disconnection notice in compliance with
+the notice requirements in subsection (4)(a)(ii) of this section.
+(9) Payments at a payment agency. Payment of any past-due amounts
+to a designated payment agency of the utility constitutes payment when
+the customer informs the utility of the payment and the utility has
+verified the payment. The utility must promptly verify the payment
+upon notification from the customer.
+(10) Remedy and appeals. A utility may not disconnect service
+while the customer is pursuing any remedy or appeal provided by these
+rules or while engaged in discussions with the utility's representatives or with the commission. Any amounts not in dispute must be paid
+when due and any conditions posing a danger to health, safety, or
+property must be corrected. The utility must inform the customer of
+these provisions when referring the customer to a utility supervisor
+or to the commission.
+(11) Disconnecting service during inclement weather. A utility
+must establish conditions in its tariff(s) under which the utility
+will cease nonvoluntary service disconnections during inclement weather events.

@@ -1,0 +1,77 @@
+a Intent: The purpose of this Section is to provide adequate notice and reason for disconnection; allow for the customer to remedy the problem and avoid disconnection; create an expectation to act upon notice by a utility when a customer does not remedy the problem; and set prohibitions and limits on disconnection under certain circumstances.
+b Allowable Reasons for Disconnection:
+1 Non-payment of past due bill for the same class and type of utility service;
+2 Non-payment of valid utility service deposit owing on account;
+3 Non-payment of a deposit owing as result of utility evidence of a problem described in Section 280.210;
+4 Failure to provide access in multi-meter premises to utility facilities after attempts by the utility to gain access as described in Section 280.140;
+5 Failure to provide access to utility facilities after four attempts (two attempts if in order to meet regulatory requirements) by the utility to gain access to a single customer premises, provided that the utility must comply with the same notification and record keeping requirements as in Section 280.140(c)(1), (2) and (3);
+6 Occupant usage without a valid customer of record;
+7 Theft of service and/or tampering;
+8 Non-compliance with any rules of the utility on file with the Commission for which the utility is authorized by tariff to disconnect service in the event of non-compliance;
+9 Non-compliance with an order of the Commission;
+10 Unsafe conditions; or
+11 Cooperation with civil authorities.
+c Non-deniable Charges: The following shall not constitute valid reasons for disconnection of regulated utility services:
+1 Charges for non-utility services, unless otherwise authorized by Illinois statute;
+2 Charges for another class (residential or non-residential) of utility service;
+3 Charges for another type (gas, electric, water or sewer, unless water and sewer utility service are provided by the same utility) of utility service;
+4 Charges for equipment or merchandise unless otherwise authorized by statute; or
+5 Charges currently in dispute under Section 280.220 or Section 280.230.
+d Disconnection Notice Content: Utility disconnection notices shall conform with Appendices A, B and D and shall include at least:
+1 Date issued;
+2 Effective date;
+3 Reason for disconnection;
+4 Options for the customer to prevent disconnection;
+5 Contact information for the utility;
+6 Contact information for the Commission's Consumer Services Division; and
+7 Medical certification process and customer bill of rights in Appendix B.
+e Method of Disconnection Notice Delivery:
+1 All utility disconnection notices shall be sent separately from any other mailing to the customer.
+2 The notice shall be sent by U.S. Mail or hand delivered.
+3 The utility shall record the date the notice is sent or delivered and retain that record for two years.
+4 If the utility and customer have agreed to electronic communications, a utility shall submit a duplicate notice to the customer electronically as long as it has also mailed or hand delivered a paper version of the notice to the customer.
+f Third Party Notice: A customer may designate, by written request to the utility, that a third party will be sent or delivered a duplicate notice whenever a disconnection notice is sent or delivered to the customer. The utility will send or deliver any third party notice at the same time as the notice is sent or delivered to the customer.
+g Timing of Notice:
+1 When notice shall be sent: A utility shall not send or deliver a disconnection notice until after one of the reasons described in subsection (b) occurs.
+2 Effective date: The utility shall not disconnect service until at least 10 days after the sending or delivery of the notice to the customer.
+3 Duration of notice: The notice shall remain effective for 45 days after it is sent or delivered.
+4 Overlapping notices: A utility may send or deliver a new notice prior to the expiration of a previous notice. The customer shall be entitled to the remedies offered in the previous notice until the effective date of the new notice.
+5 The customer's regular monthly bill shall not be considered a new disconnection notice or operate to extend the due date of a previously issued disconnection notice.
+h Exemptions to Notice Requirements: Disconnection notices substantially in the form of Appendix A shall be required prior to all disconnections of service, except in cases of:
+1 Occupant usage without a customer of record, provided that the utility shall refer to subsection (i) for special provisions related to occupant usage;
+2 Theft of service and/or tampering;
+3 Unsafe conditions;
+4 Cooperation with civil authorities;
+5 Outages and maintenance work; or
+6 The current customer has requested the service be disconnected.
+i Warning Letter Required Instead of Appendix A (Disconnection Notice for Occupant Usage without Valid Customer):
+1 When the utility has left the service on at a premises and there is usage without a customer of record, it shall send or deliver a warning letter to the premises address, containing the utility's toll free contact information, advising that an applicant must contact the utility to become a new customer or the service will have to be disconnected after 10 days.
+2 If the utility has contact information for the landlord or property manager of the premises, a duplicate warning letter shall be sent or delivered to that person at the same time as the warning letter to the premises.
+3 If there is no response within 10 days after the sending of the warning letter, the utility shall have the right to disconnect the service.
+4 The utility shall not be obliged to send a warning letter to a premises when it disconnects service within 10 days after the date that the current customer requests as the date the utility will shut off and end that customer's service.
+j Warning Call to Residential and Master-Metered Customers:
+1 Unless the customer has no phone number on record, the utility shall provide a warning call to the customer a minimum of 48 hours prior to the scheduled disconnection.
+2 The warning call may be live or automated, and it shall advise the customer of the utility's intent to disconnect the service. A second call shall be required 24 hours prior to the schedule disconnection if the first call does not reach a person or an answering machine.
+3 The warning call shall provide the customer with the toll free or local phone numbers that the customer may use to contact the utility to discuss the situation.
+4 The utility shall make a record of the date and time of day of, and its success or failure in reaching the customer through, the warning call. It shall retain the record for two years.
+k Obligation to Act:
+1 When a utility has sent or hand delivered four consecutive disconnection notices to the same customer for the same unremedied reason for disconnection under subsection (b), it shall not send a fifth notice of disconnection for the same unremedied reason unless its effort to disconnect the service has failed. Such failure shall include any temporary moratoriums that would prevent the utility from attempting to disconnect service during the effective period of the disconnection notice.
+2 If the utility's effort to disconnect the service fails, the utility shall record the date, time of day, utility personnel involved and a description of the reason for the failure. It shall retain this record for two years.
+l Time of Day and Day of the Week Prohibitions and Limits: Except for matters of safety, emergency maintenance and cooperation with civil authorities, a utility shall comply with the following prohibitions and limits upon disconnection:
+1 Non-business hours prohibition: A utility shall not disconnect a customer within one hour before or at any time during which it does not have its customer service personnel available to handle the customer's contact.
+2 Weekday afternoon limits: A utility shall not disconnect a customer after 4:00 PM on Monday through Thursday unless the utility is prepared to take the customer's payment and reconnect the customer that same day if the customer remedies the reason for the disconnection.
+3 Friday limits: A utility shall not disconnect a residential customer after noon on Friday or a non-residential customer after 4:00 PM on Friday, unless it is prepared to take the customer's payment and reconnect the customer that same day if the customer remedies the reason for the disconnection.
+4 Weekend limits: A utility shall not disconnect a customer on Saturday or Sunday unless it is prepared to take the customer's payment and reconnect the customer that same day if the customer remedies the reason for the disconnection.
+5 Holiday limits: A utility shall not disconnect a customer on a State of Illinois or utility holiday, or after noon on any day preceding a State of Illinois or utility holiday, unless the utility is prepared to take the customer's payment and reconnect the customer that same day if the customer remedies the reason for the disconnection.
+m Medical Certification: A utility shall not disconnect service to a residence for 60 days upon receipt of a valid medical certificate for a resident of the household, so long as the account is eligible for medical certification under Section 280.160.
+n Temperature Prohibitions:
+1 Cold weather: Termination of gas and electric utility service to all residential users, including all tenants of apartment buildings where gas or electricity is used as the only source of space heating or to control or operate the only space heating equipment, is prohibited:
+A On any day when the National Weather Service forecast for the following 24 hours covering the area of the utility in which the residence or master-metered apartment building is located includes a forecast that the temperature will be 32 degrees Fahrenheit or below; or
+B On any day preceding a holiday or weekend when the National Weather Service forecast covering the area of the utility in which the residence or master-metered apartment building is located includes a forecast that the temperature will be 32 degrees Fahrenheit or below at any time during the holiday or weekend. [220 ILCS 5/8-205(a) ]
+2 Hot weather: If gas or electricity is used as the only source of space cooling or to control or operate the only space cooling equipment at a residence or master-metered apartment building, then a utility with over 100,000 residential customers may not terminate gas or electric utility service to the residential user, including all tenants of master-metered apartment buildings:
+A On any day when the National Weather Service forecast for the following 24 hours covering the area of the utility in which the residence or master-metered apartment building is located includes a forecast that the temperature will be 95 degrees Fahrenheit or above; or
+B On any day preceding a holiday or weekend when the National Weather Service forecast covering the area of the utility in which the residence or master-metered apartment building is located includes a forecast that the temperature will be 95 degrees Fahrenheit or above at any time during the holiday or weekend. [220 ILCS 5/8-205(b) ]
+o Energy Act of 1989 Participants (Low Income Customers) Winter Disconnection Prohibition: Notwithstanding any other provision of this Part, no electric or gas public utility shall disconnect service to any residential customer who is a participant under Section 6 of the Energy Assistance Act of 1989 [305 ILCS 20/6 ] for nonpayment of a bill or deposit where gas or electricity is used to control or operate the primary source of space heating equipment at the premises during the period of time from December 1 and including March 31 of the immediately succeeding calendar year. [220 ILCS 5/8-206(k) ]
+p Electric Space-Heating Customer Winter Disconnection Prohibition: A utility that served more than 100,000 electric customers in Illinois as of December 31, 2005 shall not terminate electric service to a residential space heating customer for non-payment from December 1 through March 31. [220 ILCS 5/16-111.6]
+q Military Personnel on Active Duty Disconnection Prohibition: No utility shall for nonpayment stop gas or electricity from entering the residential premises that was the primary residence of a service member immediately before the service member was assigned to military service. [220 ILCS 5/8-201.5(b)]
+r Service Member or Veteran Disconnection Prohibition: No electric or gas public utility shall disconnect service to any residential customer who has notified the utility that he or she is a service member or veteran for nonpayment of a bill or deposit where gas or electricity is used as the primary source of space heating or is used to control or operate the primary source of space heating equipment at the premises during the period of time from December 1 through and including March 31 of the immediately succeeding calendar year. [220 ILCS 5/8-206(l) ]

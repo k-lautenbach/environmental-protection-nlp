@@ -1,0 +1,6 @@
+(1) Other rules notwithstanding, a utility shall not discontinue service to a residential customer for an unpaid bill between November 15 and March 15 if:
+(a) The customer agrees in writing to pay the past-due balance including customer charges in equal installments for a maximum duration beginning with the first billing period after March 15 and concluding prior to the following October 15, unless the customer fails to comply with such agreement;
+(b) In addition, the customer agrees in writing to pay all bills by their due date for current service received after said agreement unless the customer fails to comply with such agreement;
+(c) The forecasted local low temperature for a 24-hour period beginning at 8:00 A.M. on the date of the proposed disconnection is below 32° F.
+(2) Other rules notwithstanding, an electric utility shall not discontinue service to a residential customer for an unpaid bill if:
+Prior to 8:00 A.M. on the date of the scheduled disconnection, a National Weather Service Heat Advisory or Excessive Heat Warning is in effect, or is forecasted to be in effect by the National Weather Service, for the county in which the meter scheduled for disconnection is located.

@@ -1,0 +1,102 @@
+A. Restrictions on termination of service; recordkeeping and repayment requirements
+1. A utility shall not terminate service to a customer due to delinquency in payment for services rendered to a prior customer at the service address where service is being provided, unless the prior customer continues to reside at the service address.
+2. A utility shall not terminate service to a customer due to the customer's failure to pay for services or equipment that are not regulated by the Commission.
+3. A utility shall not terminate service to a customer due to the customer's nonpayment of a bill related to another class of service.
+4. A utility shall not terminate service to a customer due to the customer's failure to pay the portion of a bill imposed to correct a previous underbilling due to an inaccurate meter or meter failure, provided that the customer agrees to pay the portion of the bill attributable to correction of underbilling in full over a period of months agreed to by the customer and the utility. A utility shall comply with R14-2-209(C)(3) and R14-2-210(E)(3) when calculating the underbilling amount to be paid.
+5. A utility shall not terminate residential service to a customer who has an inability to pay if the customer establishes, on an annual basis, through documentation from a licensed medical practitioner:
+a. That, in the opinion of the licensed medical practitioner, termination would be especially dangerous to the health of the customer or a permanent resident residing at the customer's service address, or
+b. That there is medically necessary equipment used in the home that is dependent on utility service for operation.
+c. Where weather will be especially dangerous to health as defined or as determined by the Commission.
+
+6. A utility shall not terminate residential service to a customer who has an inability to pay until the utility has complied with subsection (D) and completed all of the following:
+a. The utility has informed the customer of the availability of funds from various government and social assistance agencies and provided the customer the contact information for those agencies;
+b. If a third party has been previously designated by the customer to receive delinquency and termination information, the utility has notified the third party that the customer's bill is delinquent and allowed the third party at least five business days to communicate with the utility and to make arrangements for payment of the delinquent utility bill;
+c. At least 48 hours before the date upon which termination is scheduled to occur, the utility has:
+i. Provided at least two written notices of the termination, using the customer's preferred method of communication, to the customer and, if applicable, the customer's designated third party; and
+ii. Telephoned the customer and, if applicable, the customer's designated third party to provide notice of the termination by attempting to speak to the customer, the customer's designated third party, or an adult resident of the customer's service address; or by attempting to leave a voice message.
+d. A utility may partner with local stakeholders; nonprofits; public health agencies at the state, county, and local level; and local community service agencies to provide in-person notice of termination;
+e. A utility shall keep pace with technological advancements in communication and augment the requirements of this subsection to utilize the most effective means of informing the customer of delinquency and termination; and
+f. Beginning on April 15, 2022, and on each April 15 thereafter, each regulated Class A, B, and C electric utility that provides residential electric service shall file a report containing the utility's policy for compliance with subsection (A)(6).
+7. If a customer, the customer's designated third party, or an adult resident of the customer's service address threatens the utility or a utility employee, the utility shall document the threatening occurrence. A utility shall maintain documentation of all threatening occurrences related to a customer's account for the entire period during which the customer continues to be a customer and for at least one year after the customer ceases to be a customer.
+8. A utility shall retain the records demonstrating its compliance with subsection (A)(6) for at least three years.
+7. 9. A utility may require a customer whose service is not terminated due to subsection (A)(4) or (A)(5) to enter into a deferred payment agreement with the utility within seven business days after the date on which service otherwise would have been terminated. A utility shall allow at least a single missed payment or a single partial payment in a 12-month period at the request of the customer without any consequence. If there is more than one missed or partial payment, the payment plan agreement will be considered as breached. If the payment plan is in breach, the current payment plan may be amended, or a new payment plan may be created. Both the utility and the customer have a duty to act in good faith in negotiating a payment plan.
+8. 10. A utility shall not terminate service due to a customer's failure to pay the disputed portion of a bill if the customer has complied with R14-2-212(B).
+11. A utility shall adopt only one of the following conditions under which it shall not terminate residential service:
+a. During any period of time for which the local weather forecast, as predicted by the National Weather Service, indicates that the weather in the area of the customer's service address:
+i. Will include temperatures that do not exceed 32° F;
+ii. Will include temperatures that exceed 95° F; or
+iii. Will include other weather conditions that the Commission has determined, by order, are especially dangerous to health; or
+b. During the calendar days of June 1 through October 15 of each year, which shall be specified as non-termination dates in a utility's tariffs.
+12. A utility shall specify, in its tariffs, the provision of subsection (A)(11) that the utility has chosen to comply with and shall comply with the provision.
+13. If a utility is prohibited from terminating a customer's service under subsection (A)(11)(b) as adopted in its tariff, the utility shall:
+a. Notify the customer, using the customer's preferred method of communication, and, if applicable, the customer's designated third party, of:
+i. The reason the utility is not permitted to disconnect service,
+ii. The expected date on which termination of service will be permissible, and
+iii. The customer's responsibilities under subsection (H);
+b. Not charge the customer any late fees or assess any interest on any past due amounts that accrue during a period when subsection (A)(11)(b) applies; and
+c. After subsection (A)(11)(b) no longer applies, bill the customer for the past due amounts through installments over a period of months agreed to by the customer and the utility.
+14. A utility shall not terminate residential service to a customer unless the utility's call center and office or business facilities are open and available to the public on the day of termination and the day following the day of termination.
+15. A utility shall not terminate residential service to a customer if the customer has paid at least half of the customer's delinquent bill balance within the last 25 days or if the customer's delinquent bill balance is less than or equal to $300.00.
+16. If a customer has a deposit with the utility, the utility shall use the deposit to pay any delinquent amount on the customer's account before terminating service and shall allow the customer time to reestablish the deposit in installments over a period of at least six months.
+17. Beginning on April 15, 2022, and on each April 15 thereafter, each regulated Class A, B, and C electric utility that provides residential electric service shall file a report containing the utility's payment plan policy for residential customers.
+B. Termination of service without advance written notice; recordkeeping requirement
+1. Notwithstanding subsection (A), a utility may terminate service to a customer's service address without advance written notice if:
+a. Failure to terminate service would result in an obvious hazard to the safety or health of the customer, the general population, or the utility's personnel or facilities;
+b. The utility has evidence of meter tampering or fraud related to the customer or the customer's service address; or
+c. the customer has failed to comply with the curtailment procedures imposed by the utility during supply shortages.
+2. a utility that has terminated service under subsection (B)(1) shall not be required to restore service until the situation that resulted in the termination has been corrected to the satisfaction of the utility.
+3. a utility shall maintain a record of each termination of service made under subsection (B)(1) for at least one year and shall make the record available for inspection by the Commission upon request.
+C. Termination of service with notice
+1. Except as provided in subsection (A), a utility may terminate service to a customer's service address for any of the following reasons, provided that the utility has complied with the requirements of subsection (D):
+a. Customer violation of any of the utility's tariffs or of the Commission's rules,
+b. Failure of the customer to pay a delinquent bill for utility service,
+c. Failure of the customer to meet or maintain the utility's deposit requirements,
+d. Failure of the customer to provide the utility reasonable access to the utility's equipment or property,
+e. Customer breach of a written contract for service between the utility and customer,
+f. When necessary for the utility to comply with an order of any governmental agency having jurisdiction, or
+g. Unauthorized resale of utility equipment or service by the customer.
+2. a utility shall maintain a record of each termination of service made under subsection (C)(1) for at least one year and shall make the record available for Commission inspection upon request.
+D. Termination notice requirements
+1. At least 10 days before a utility terminates service to a customer's service address under subsection (C), the utility shall provide the customer and, if applicable, the customer's designated third party, advance notice of the utility's intent to terminate service,.
+2. The utility shall provide the advance notice required by subsection (D)(1) by providing a copy of the advance notice to the customer and, if applicable, the customer's designated third party, using the customer's preferred method of communication, or U.S. mail, as provided in R14-2-212(K).
+2. 3. A utility shall include at least the following information in an advance notice required under subsection (D)(1):
+a. The name of the customer whose service is to be terminated and the service address where service is to be terminated;
+b. If service is to be terminated because the customer has violated a utility tariff or Commission rule, the name of the utility tariff or Commission rule violated and an explanation of the violation;
+b. c. If service is to be terminated because the customer has failed to pay a delinquent bill for utility service, the amount of the delinquent bill and the date payment was due;
+d. If service is to be terminated because the customer has failed to meet or maintain the utility's deposit requirements, the amount the customer has on deposit and the amount the customer is required to have on deposit;
+e. If service is to be terminated because the customer has failed to provide the utility reasonable access to the utility's equipment or property, a description of the access required and a description, including dates, of the customer's failure to provide access;
+f. If service is to be terminated because the customer has breached a written contract for service between the customer and the utility, identification of the contract provision breached and a description of the circumstances constituting a breach;
+g. If service is to be terminated because the termination is necessary for the utility to comply with an order of any governmental agency having jurisdiction, a description and, if possible, a copy of the order;
+h. If service is to be terminated because the customer has engaged in unauthorized resale of the utility's equipment or service, a description of the circumstances, including dates, constituting such resale;
+c.i. The date on or after which service is to be terminated;
+d. j. A statement advising the customer to contact the utility at a specific address or phone number to receive information regarding any deferred payment program or other procedures the utility may offer, or to reach a mutually agreeable solution to avoid termination of the customer's service; and
+e. k. A description of the requirements of subsection (F), along with the specific address for the customer to contact or the phone number for the customer to call to raise a dispute.
+3. 4. If a customer has designated a third party for the customer's account, a utility shall ensure that the third party is concurrently provided each notice, whether written or telephonic, that is provided to the customer as required by this Section.
+E. Timing of terminations with notice
+1. Each utility shall be required to give at least five days' advance written notice prior to the termination date.
+
+2. Such notice shall be considered to be given to the customer when a copy thereof is left with the customer or posted first class in the United States mail, addressed to the customer's last known address.
+
+3.1. If the period of time allowed by the advance notice has elapsed, and the customer has not remedied the cause for termination to the utility's satisfaction, the utility shall provide the customer and, if applicable, the customer's designated third party, a final notice, two days before the termination date specified, using the customer's preferred method of communication. If the customer has not remedied the cause for termination after the two days have passed, and subsection (A) does not apply, the utility may then terminate service on or after the day specified in the final notice without giving further notice.
+2. Notwithstanding subsection (E)(1), if a customer's preferred method of communication is U.S. mail, the utility shall allow ten days before terminating service without giving further notice.
+4. 3. A utility shall comply with subsection (A)(6), if applicable, before it may terminate service.
+5. 4. A utility shall have the right but not the obligation to remove any or all of its equipment or other property installed at a customer's service address upon the termination of service.
+F. Termination notice requirements: disputes. A utility shall ensure that a customer is afforded the right to dispute the utility's stated reason for termination, in accordance with the following:
+1. A utility shall maintain a specific address or phone number for customers to use to raise a dispute with the utility.
+2. A utility shall notify each customer, subject to termination, and the customer's designated third party, that to dispute the utility's reason for termination, the customer or the customer's designated third party shall contact the utility at the specific address or phone number, before the scheduled date of termination, to advise the utility of the dispute and to discuss the cause for termination with a representative of the utility.
+3. If a customer raises a dispute, a utility shall ensure that a representative of the utility, who is empowered to resolve the customer's dispute, discusses the cause for termination with the customer before the scheduled termination date.
+4. If a utility determines after discussion with a disputing customer that the reason for termination is just, the utility may terminate service to the customer, unless prohibited by subsection (A).
+5. If a utility decides to terminate service to a disputing customer as permitted in subsection (F)(4), the utility shall inform the customer of the termination and of his the customer's right to file a complaint with the Commission.
+6. The utility shall not terminate service if the customer has a pending complaint before the Commission.
+F.G. Landlord/tenant rule. If the service address for a customer is different from the mailing address for the customer's bill, or the utility knows that a landlord/tenant relationship exists for the service address and that the landlord is the customer of the utility, the utility shall comply with subsections (D) and (E) as well as the following if the customer account becomes subject to termination of service under subsection (C):
+1. If it is feasible to provide service to the service address in the occupant's name, the utility shall offer the occupant the opportunity to obtain service in the occupant's name;
+2. If the occupant declines to subscribe to service in the occupant's name, the utility may terminate service as permitted under subsections (C) through (E); and
+2. 3. The utility shall not require or attempt to require the occupant to pay any outstanding bills or other charges due on the account of the landlord.
+H. Customer responsibilities
+1. A customer shall be responsible for managing energy use when a utility is not permitted to terminate service to the customer under subsection (A).
+2. A customer shall be financially responsible for any charges accrued for service during a period when a utility is not permitted to terminate service to the customer under subsection (A).
+3. A customer shall, after the provision of subsection (A)(11) included in a utility's tariff no longer precludes termination:
+a. Pay the past due amounts in full; or
+b. Pay the past due amounts through installments as billed by the utility, with no penalty for prepayment.
+4. A customer desiring to dispute a utility's reason for termination shall, before the scheduled date of termination, contact the utility at the specific address or phone number provided in the notice pursuant to subsection (D)(3)(k) to notify the utility of the dispute and discuss the reason for termination with a representative of the utility.
+I. In a competitive marketplace, if a customer's account with an Electric Service Provider becomes delinquent, the Electric Service Provider may not order a disconnect for nonpayment or terminate service to the customer but may only send a notice of contract cancellation to the customer and the Utility Distribution Company.
